@@ -20,7 +20,7 @@ Command Line Options
 --------------------
 >encode
 >------------------
->Usage: ./encode [options]\
+>Usage: ./encode [options]
 >
 >  A Huffman encoder.\
 >  Compresses a file using the Huffman coding algorithm.\
