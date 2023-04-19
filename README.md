@@ -32,7 +32,7 @@ Command Line Options
 >  -h             Program usage and help.\
 >  -v             Print compression statistics.\
 >  -i infile      Input file to compress.\
->  -o outfile     Output of compressed data.\
+>  -o outfile     Output of compressed data.
 >
 >
 >
@@ -48,7 +48,7 @@ Command Line Options
 >  -h             Program usage and help.\
 >  -v             Print compression statistics.\
 >  -i infile      Input file to decompress.\
->  -o outfile     Output of decompressed data.\
+>  -o outfile     Output of decompressed data.
 
 
 
@@ -76,7 +76,7 @@ Step One:
 > "stack.c"\
 > "huffman.h"\
 > "huffman.c"\
-> "Makefile"\
+> "Makefile"
 >
 > Ensure all the files are inside the same directory.
 >
