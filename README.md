@@ -1,3 +1,9 @@
+# All code besides headers were written by myself
+- code.c includes implementation to read/write singular bits
+- node.c node functionality for the priority queue
+- pq.c Priority Queue data structure made by myself
+- stack.c Stack data structure made by myself
+
 How to run and use encode and decode.
 ================================================
 
